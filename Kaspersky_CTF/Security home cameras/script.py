@@ -1,5 +1,5 @@
-output = open('output.png', 'w')
-input = open('secret_encrypted.png', 'r')
+out = open('output.png', 'w')
+in = open('secret_encrypted.png', 'r')
 
 
 def xor(data):
@@ -9,8 +9,8 @@ def xor(data):
 
     return decoded
 
-data = input.read()
-k.write(xor(data))
+data = in.read()
+out.write(xor(data))
 
-input.close()
-output.close()
+in.close()
+out.close()
