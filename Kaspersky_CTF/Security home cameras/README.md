@@ -1,0 +1,1 @@
+Lets open the given png with xxd and compare it with another png, if we xor the first byte of each picture we get 0xFF, lets xor the whole encrypted png with 0xFF.
