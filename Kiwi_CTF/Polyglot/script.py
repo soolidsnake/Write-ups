@@ -56,7 +56,7 @@ def nastify(ch, word_len):
 hardcoded = 'TZOPBTPBIBTUEIBTISIBTCCIBTCFIBTNSIBTDRCSCATSETBTRAPBPESNPSUESITFOARTTTGTSBOAPOOOWTDIATWMNBOAFUYRDNIBTNANIOBTRNITIIHTEISABIITIIETEIMBAGINAOHGILSDMOT'
 
 
-# Everything above is just copied from the original code
+
 
 with open('/usr/share/dict/words') as f:
     words = f.readlines()
