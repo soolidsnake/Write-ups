@@ -1,0 +1,1 @@
+The idea is to find 2 different strings that gives 0exxxxxxx after being hashed by the program, here is my [script](script.py)
