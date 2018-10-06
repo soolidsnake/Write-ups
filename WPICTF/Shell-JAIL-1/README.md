@@ -1,1 +1,1 @@
-`./access "cat fla'g'.'t'xt"`
+`./access "cat fla'g'.'t'xt"` OR `./access "cat ????.???"`
