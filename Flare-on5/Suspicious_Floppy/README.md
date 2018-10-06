@@ -1,0 +1,1 @@
+Please visit my website to read my writeup [link](https://soolidsnake.github.io/2018/10/04/flare-on5-chall12.html)
